@@ -1,0 +1,32 @@
+[
+    {
+        "rideName":"Falcor",
+        "ridePic":"https://fi67.github.io/JsonData/imHeights/falcor.jpg",
+        "rideHeight":"8",
+        "rideType":"dog"
+    },
+    {
+        "rideName":"Jemima",
+        "ridePic":"https://fi67.github.io/JsonData/imHeights/jemima.jpg",
+        "rideHeight":"6",
+        "rideType":"dog"
+    },
+    {
+        "rideName":"Garnet",
+        "ridePic":"https://fi67.github.io/JsonData/imHeights/garnet.jpg",
+        "rideHeight":"15",
+        "rideType":"cat"
+    },
+    {
+        "rideName":"Tabby",
+        "ridePic":"https://fi67.github.io/JsonData/imHeights/tabby.jpg",
+        "rideHeight":"11",
+        "rideType":"cat"
+    },
+    {
+        "rideName":"Moonlight",
+        "ridePic":"https://fi67.github.io/JsonData/imHeights/moonlight.jpg",
+        "rideHeight":"11",
+        "rideType":"cat"
+    }
+]
