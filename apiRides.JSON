@@ -1,31 +1,31 @@
 [
     {
-        "rideName":"Falcor",
-        "ridePic":"https://fi67.github.io/JsonData/imHeights/falcor.jpg",
+        "rideName":"Galactica",
+        "ridePic":"https://rileysadler.github.io/galactica.webp",
         "rideHeight":"8",
         "rideType":"dog"
     },
     {
-        "rideName":"Jemima",
-        "ridePic":"https://fi67.github.io/JsonData/imHeights/jemima.jpg",
+        "rideName":"Nemesis",
+        "ridePic":"https://rileysadler.github.io/nemesis.webp",
         "rideHeight":"6",
         "rideType":"dog"
     },
     {
-        "rideName":"Garnet",
-        "ridePic":"https://fi67.github.io/JsonData/imHeights/garnet.jpg",
+        "rideName":"Runaway Train",
+        "ridePic":"https://rileysadler.github.io/runaway.webp",
         "rideHeight":"15",
         "rideType":"cat"
     },
     {
-        "rideName":"Tabby",
-        "ridePic":"https://fi67.github.io/JsonData/imHeights/tabby.jpg",
+        "rideName":"The Smiler",
+        "ridePic":"https://rileysadler.github.io/smiler.webp",
         "rideHeight":"11",
         "rideType":"cat"
     },
     {
-        "rideName":"Moonlight",
-        "ridePic":"https://fi67.github.io/JsonData/imHeights/moonlight.jpg",
+        "rideName":"The Wicker Man",
+        "ridePic":"https://rileysadler.github.io/wicker.webp",
         "rideHeight":"11",
         "rideType":"cat"
     }
