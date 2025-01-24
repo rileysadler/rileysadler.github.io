@@ -1,27 +1,27 @@
 [
     {
         "restName":"Woodcutter's Bar & Grill",
-        "restPic":"https://fi67.github.io/JsonData/imHeights/falcor.jpg",
+        "restPic":"https://rileysadler.github.io/woodcutters.webp",
         "restDesc":"Chicken and Steak"
     },
     {
         "restName":"Explorers Pizza Pasta Buffet",
-        "restPic":"https://fi67.github.io/JsonData/imHeights/jemima.jpg",
+        "restPic":"https://rileysadler.github.io/explorers.webp",
         "restDesc":"Pizza and Pasta"
     },
     {
         "restName":"The Burger Kitchen",
-        "restPic":"https://fi67.github.io/JsonData/imHeights/garnet.jpg",
+        "restPic":"https://rileysadler.github.io/burger.webp",
         "restDesc":"Burgers"
     },
     {
         "restName":"Just Chicken",
-        "restPic":"https://fi67.github.io/JsonData/imHeights/tabby.jpg",
+        "restPic":"https://rileysadler.github.io/chicken.webp",
         "restDesc":"Fried Chicken"
     },
     {
         "restName":"Corner Coffee",
-        "restPic":"https://fi67.github.io/JsonData/imHeights/moonlight.jpg",
+        "restPic":"https://rileysadler.github.io/coffee.webp",
         "restDesc":"Sandwiches and Hot Drinks"
     }
 ]
