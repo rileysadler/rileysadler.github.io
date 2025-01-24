@@ -2,31 +2,31 @@
     {
         "rideName":"Galactica",
         "ridePic":"https://rileysadler.github.io/galactica.webp",
-        "rideHeight":"8",
-        "rideType":"dog"
+        "rideHeight":"1.4 Meters",
+        "rideType":"Thrills"
     },
     {
         "rideName":"Nemesis",
         "ridePic":"https://rileysadler.github.io/nemesis.webp",
-        "rideHeight":"6",
-        "rideType":"dog"
+        "rideHeight":"1.4 Meters",
+        "rideType":"Thrills"
     },
     {
         "rideName":"Runaway Train",
         "ridePic":"https://rileysadler.github.io/runaway.webp",
-        "rideHeight":"15",
-        "rideType":"cat"
+        "rideHeight":"1.1 Meters",
+        "rideType":"Laughs and Frights"
     },
     {
         "rideName":"The Smiler",
         "ridePic":"https://rileysadler.github.io/smiler.webp",
-        "rideHeight":"11",
-        "rideType":"cat"
+        "rideHeight":"1.4 Meters",
+        "rideType":"Thrills"
     },
     {
         "rideName":"The Wicker Man",
         "ridePic":"https://rileysadler.github.io/wicker.webp",
-        "rideHeight":"11",
-        "rideType":"cat"
+        "rideHeight":"1.2 Meters",
+        "rideType":"Thrills"
     }
 ]
