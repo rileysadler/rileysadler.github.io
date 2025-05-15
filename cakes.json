@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Falcors page",
+      "imgUrl": "https://fi67.github.io/JsonData/images/falcor.jpg",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "link": "http://www.example.com/falcor"
+    },
+    {
+      "id": 2,
+      "title": "Jem and Us Portfolio",
+      "imgUrl": "https://fi67.github.io/JsonData/images/jemima.jpg",
+      "stack": [
+        "React",
+        "Tailwind",
+        "Vite"
+      ],
+      "link": "http://www.example.com/jem"
+    },
+    {
+      "id": 3,
+      "title": "Jewels By Moonlight",
+      "imgUrl": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+      "stack": [
+        "Python",
+        "C#",
+        "AI"
+      ],
+      "link": "http://www.example.com/moonlight"
+    }
+  ]
+}
