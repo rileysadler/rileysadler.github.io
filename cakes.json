@@ -2,8 +2,8 @@
   "cakes": [
     {
       "id": 1,
-      "title": "Falcors page",
-      "imgUrl": "https://fi67.github.io/JsonData/images/falcor.jpg",
+      "title": "Chocolate Fudge Cake",
+      "imgUrl": "https://rileysadler.github.io/chocolate-fudge-cake-desktop.webp",
       "stack": [
         "HTML",
         "CSS",
@@ -13,8 +13,8 @@
     },
     {
       "id": 2,
-      "title": "Jem and Us Portfolio",
-      "imgUrl": "https://fi67.github.io/JsonData/images/jemima.jpg",
+      "title": "Chocolate Hazlenut Cake",
+      "imgUrl": "https://rileysadler.github.io/chocolate-hazlenut-cake-desktop.webp",
       "stack": [
         "React",
         "Tailwind",
@@ -24,8 +24,41 @@
     },
     {
       "id": 3,
-      "title": "Jewels By Moonlight",
-      "imgUrl": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+      "title": "Lemon Drizzle Cake",
+      "imgUrl": "https://rileysadler.github.io/lemon-drizzle-cake-desktop.webp",
+      "stack": [
+        "Python",
+        "C#",
+        "AI"
+      ],
+      "link": "http://www.example.com/moonlight"
+    },
+    {
+      "id": 4,
+      "title": "Passionfruit Pistachio Cake",
+      "imgUrl": "https://rileysadler.github.io/passionfruit-pistachio-cake-desktop.webp",
+      "stack": [
+        "Python",
+        "C#",
+        "AI"
+      ],
+      "link": "http://www.example.com/moonlight"
+    },
+    {
+      "id": 5,
+      "title": "Raspberry Ripple Cake",
+      "imgUrl": "https://rileysadler.github.io/raspberry-ripple-cake-desktop.webp",
+      "stack": [
+        "Python",
+        "C#",
+        "AI"
+      ],
+      "link": "http://www.example.com/moonlight"
+    },
+    {
+      "id": 5,
+      "title": "Strawberry Sponge Cake",
+      "imgUrl": "https://rileysadler.github.io/strawberry-sponge-cake-desktop.webp",
       "stack": [
         "Python",
         "C#",
