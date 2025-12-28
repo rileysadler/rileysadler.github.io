@@ -1,42 +1,42 @@
 [
     {
-        "animalID":1,
-        "animalName":"Falcor",
-        "animalPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
-        "animalAge":"8",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Collie"
+        "productID":1,
+        "productName":"Falcor",
+        "productPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
+        "productAge":"8",
+        "productType":"dog",
+        "productBreed":"Cross Breed Collie"
     },
     {
-            "animalID":2,
-        "animalName":"Jemima",
-        "animalPic":"https://fi67.github.io/JsonData/images/jemima.jpg",
-        "animalAge":"6",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Sproodle"
+        "productID":2,
+        "productName":"Jemima",
+        "productPic":"https://fi67.github.io/JsonData/images/jemima.jpg",
+        "productAge":"6",
+        "productType":"dog",
+        "productBreed":"Cross Breed Sproodle"
     },
     {
-            "animalID":3,
-        "animalName":"Garnet",
-        "animalPic":"https://fi67.github.io/JsonData/images/garnet.jpg",
-        "animalAge":"15",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
+        "productID":3,
+        "productName":"Garnet",
+        "productPic":"https://fi67.github.io/JsonData/images/garnet.jpg",
+        "productAge":"15",
+        "productType":"cat",
+        "productBreed":"tabby moggy"
     },
     {
-            "animalID":4,
-        "animalName":"Tabby",
-        "animalPic":"https://fi67.github.io/JsonData/images/tabby.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
+        "productID":4,
+        "productName":"Tabby",
+        "productPic":"https://fi67.github.io/JsonData/images/tabby.jpg",
+        "productAge":"11",
+        "productType":"cat",
+        "productBreed":"tabby moggy"
     },
     {
-            "animalID":5,
-        "animalName":"Moonlight",
-        "animalPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"Black and white moggy"
+        "productID":5,
+        "productName":"Moonlight",
+        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productAge":"11",
+        "productType":"cat",
+        "productBreed":"Black and white moggy"
     }
 ]
