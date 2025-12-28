@@ -38,5 +38,13 @@
         "productAge":"11",
         "productType":"cat",
         "productBreed":"Black and white moggy"
+    },
+    {
+        "productID":6,
+        "productName":"Moonlight",
+        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productAge":"11",
+        "productType":"cat",
+        "productBreed":"Black and white moggy"
     }
 ]
