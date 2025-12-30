@@ -2,97 +2,85 @@
     {
         "productID":1,
         "productName":"Falcor",
-        "productPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
-        "productAge":"8",
-        "productType":"dog",
-        "productBreed":"Cross Breed Collie"
+        "productImage":"https://fi67.github.io/JsonData/images/falcor.jpg",
+        "productPrice":"8",
+        "productDescription":"dog",
     },
     {
         "productID":2,
         "productName":"Jemima",
-        "productPic":"https://fi67.github.io/JsonData/images/jemima.jpg",
-        "productAge":"6",
-        "productType":"dog",
-        "productBreed":"Cross Breed Sproodle"
+        "productImage":"https://fi67.github.io/JsonData/images/jemima.jpg",
+        "productPrice":"6",
+        "productDescription":"dog"
     },
     {
         "productID":3,
         "productName":"Garnet",
-        "productPic":"https://fi67.github.io/JsonData/images/garnet.jpg",
-        "productAge":"15",
-        "productType":"cat",
-        "productBreed":"tabby moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/garnet.jpg",
+        "productPrice":"15",
+        "productDescription":"cat"
     },
     {
         "productID":4,
         "productName":"Tabby",
-        "productPic":"https://fi67.github.io/JsonData/images/tabby.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"tabby moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/tabby.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
     {
         "productID":5,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
     {
         "productID":6,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
         {
         "productID":7,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
         {
         "productID":8,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
         {
         "productID":9,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
         {
         "productID":10,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
         {
         "productID":11,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     },
         {
         "productID":12,
         "productName":"Moonlight",
-        "productPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productAge":"11",
-        "productType":"cat",
-        "productBreed":"Black and white moggy"
+        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice":"11",
+        "productDescription":"cat"
     }
 ]
