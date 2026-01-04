@@ -1,86 +1,87 @@
+```json
 [
     {
-        "productID":1,
-        "productName":"Falcor",
-        "productImage":"https://fi67.github.io/JsonData/images/falcor.jpg",
-        "productPrice":"8",
-        "productDescription":"dog"
+        "productID": 1,
+        "productName": "Purrfect Pause Calming Collar",
+        "productImage": "https://fi67.github.io/JsonData/images/falcor.jpg",
+        "productPrice": "14.99",
+        "productDescription": "A soft adjustable cat collar infused with a calming lavender scent for stressful situations."
     },
     {
-        "productID":2,
-        "productName":"Jemima",
-        "productImage":"https://fi67.github.io/JsonData/images/jemima.jpg",
-        "productPrice":"6",
-        "productDescription":"dog"
+        "productID": 2,
+        "productName": "Bark & Bounce Eco Rope Toy",
+        "productImage": "https://fi67.github.io/JsonData/images/jemima.jpg",
+        "productPrice": "7.49",
+        "productDescription": "A durable recycled-fibre rope toy designed for tugging, chewing, and active play."
     },
     {
-        "productID":3,
-        "productName":"Garnet",
-        "productImage":"https://fi67.github.io/JsonData/images/garnet.jpg",
-        "productPrice":"15",
-        "productDescription":"cat"
+        "productID": 3,
+        "productName": "WhiskerWell Ceramic Water Fountain",
+        "productImage": "https://fi67.github.io/JsonData/images/garnet.jpg",
+        "productPrice": "39.99",
+        "productDescription": "A quiet ceramic water fountain that keeps water fresh and encourages pets to drink more."
     },
     {
-        "productID":4,
-        "productName":"Tabby",
-        "productImage":"https://fi67.github.io/JsonData/images/tabby.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+        "productID": 4,
+        "productName": "NibbleNest Small Animal Hideaway",
+        "productImage": "https://fi67.github.io/JsonData/images/tabby.jpg",
+        "productPrice": "12.50",
+        "productDescription": "A cosy wooden hideaway providing a safe resting space for small animals."
     },
     {
-        "productID":5,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+        "productID": 5,
+        "productName": "FeatherFrenzy Teaser Wand",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "5.99",
+        "productDescription": "An interactive wand toy with colourful feathers to stimulate a cat’s hunting instincts."
     },
     {
-        "productID":6,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+        "productID": 6,
+        "productName": "ScaleSafe Reptile Heat Mat",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "24.95",
+        "productDescription": "A temperature-controlled heat mat that provides consistent warmth for reptiles."
     },
-        {
-        "productID":7,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+    {
+        "productID": 7,
+        "productName": "AquaGlow LED Tank Light",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "29.99",
+        "productDescription": "An energy-efficient LED aquarium light that enhances colours and supports plant growth."
     },
-        {
-        "productID":8,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+    {
+        "productID": 8,
+        "productName": "HoppyHarvest Timothy Hay Bale",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "8.75",
+        "productDescription": "High-fibre timothy hay to support digestion and dental health in small herbivores."
     },
-        {
-        "productID":9,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+    {
+        "productID": 9,
+        "productName": "TailWag Travel Water Bottle",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "11.99",
+        "productDescription": "A portable, leak-proof water bottle with a built-in drinking tray for dogs on the go."
     },
-        {
-        "productID":10,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+    {
+        "productID": 10,
+        "productName": "ClawCare Natural Scratching Post",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "34.50",
+        "productDescription": "A sturdy sisal-wrapped scratching post that helps cats maintain healthy claws."
     },
-        {
-        "productID":11,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+    {
+        "productID": 11,
+        "productName": "BeakBright Mineral Perch",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "9.49",
+        "productDescription": "A textured bird perch designed to help keep beaks naturally trimmed."
     },
-        {
-        "productID":12,
-        "productName":"Moonlight",
-        "productImage":"https://fi67.github.io/JsonData/images/moonlight.jpg",
-        "productPrice":"11",
-        "productDescription":"cat"
+    {
+        "productID": 12,
+        "productName": "Sniff & Seek Treat Puzzle",
+        "productImage": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "productPrice": "16.99",
+        "productDescription": "An enrichment puzzle that hides treats and encourages problem-solving during play."
     }
 ]
