@@ -82,12 +82,5 @@
         "productImage": "https://rileysadler.github.io/12.jpg",
         "productPrice": "14.00",
         "productDescription": "Safety is on the rise with this harness in adventurous ecru. Ideal for low-light conditions thanks to the reflective trim, you can take late-night and early morning walks knowing that you are visible."
-    },
-    {
-        "productID": 13,
-        "productName": "EXAMPLE PRODUCT",
-        "productImage": "https://rileysadler.github.io/12.jpg",
-        "productPrice": "14.00",
-        "productDescription": "EXAMPLE DESCRIPTION"
     }
 ]
